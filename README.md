@@ -22,6 +22,7 @@ Este projeto tem como objetivo aplicar conceitos de ETL, tratamento de dados, an
 - **NumPy**
 - **Matplotlib**
 - **Seaborn**
+- **Json**
 
 ---
 
@@ -39,8 +40,8 @@ TelecomX/
 1. **Clone o repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/TelecomX.git
-cd TelecomX
+git clone https://github.com/igonc/challenge-telecomX.git
+cd challenge-telecomX
 ```
 
 2. **Instale os requisitos (opcional)**:
@@ -48,7 +49,7 @@ cd TelecomX
 Você pode usar pip para instalar os pacotes necessários:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install os pandas numpy matplotlib seaborn json
 ```
 
 3. **Abra o Jupyter Notebook**:
